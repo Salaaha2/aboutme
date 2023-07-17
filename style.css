@@ -1,0 +1,39 @@
+img {
+    width: 300px;
+    border: 5px solid tan;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+    font-family: Lobster;
+}
+
+a {
+    color: firebrick;
+    padding: 5px 5px 5px 5px;
+}
+a:hover {
+    color: darkkhaki;
+}
+
+h2 {
+    font-size: 21px;
+    text-align: center;
+}
+
+body {
+    background: url("BackgroundJobs.jpg");
+    
+}
+
+/* index home */
+.contains {
+    text-align: center;
+
+}
+.info {
+    
+}
+
+/* Education home */
